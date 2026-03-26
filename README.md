@@ -1,4 +1,6 @@
 # Library-Management
+# NAME : AKSHAYAA M T
+# REG NO : 212223110002
 ### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 ### PROBLEM STATEMENT:
@@ -22,6 +24,23 @@ In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 Star UML
 ### UML Diagrams:
+### USECASE DIAGRAM
+<img width="1090" height="850" alt="Screenshot 2026-03-09 235839" src="https://github.com/user-attachments/assets/a533de26-fc0b-4e79-adc1-9d758e1966eb" />
+
+### CLASS DIAGRAM
+<img width="1093" height="624" alt="Screenshot 2026-03-09 235859" src="https://github.com/user-attachments/assets/55e5d6e9-c73e-4f38-a7e5-959f60a64fd4" />
+
+### PACKAGE DIAGRAM
+<img width="1084" height="794" alt="Screenshot 2026-03-09 235918" src="https://github.com/user-attachments/assets/e530d55d-596a-43a4-89f6-1c4e01a97983" />
+
+### SEQUENCE DIAGRAM
+<img width="1008" height="895" alt="Screenshot 2026-03-09 235936" src="https://github.com/user-attachments/assets/af0735b6-c020-410c-8151-76c272e86c7a" />
+
+### COMMUNICATION DIAGRAM
+<img width="1086" height="727" alt="Screenshot 2026-03-16 095420" src="https://github.com/user-attachments/assets/5ba0d7ab-6eff-4c39-9f3b-bbe36685dfa7" />
+
+### ACTIVITY DIAGRAM
+<img width="1084" height="827" alt="Screenshot 2026-03-10 000000" src="https://github.com/user-attachments/assets/3ebcd6a0-fde0-4e31-8599-9d9f3739a8d5" />
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
